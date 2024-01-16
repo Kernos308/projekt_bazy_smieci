@@ -1,0 +1,563 @@
+zawodnik_id,imie_nazwisko,Nation,Pos,druzyna_id,Cmp_x_x,DateOfBirth,Min,Gls,Ast,CrdY,CrdR,Cmp_x_y
+0,13.0,Aarón Escandell,ESP,GK,Valladolid,19.0,1995-09-13,450,0,0,1,0,78.0
+1,19.0,Aarón Martín,ESP,LB,Elche,44.0,1997-04-07,1540,0,3,1,0,675.0
+2,30.0,Abdallahi Mahmoud,MTN,CM,Real Sociedad,10.0,2000-04-19,66,0,0,0,0,13.0
+3,21.0,Abdoulay Diaby,MLI,CB,Huesca,5.0,1991-05-28,18,0,0,0,0,5.0
+4,11.0,Adnan Januzaj,BEL,RW,Levante,4.0,1995-01-21,1014,4,5,2,0,397.0
+5,20.0,Adrián López,ESP,LM,Real Sociedad,8.0,1987-12-28,481,1,1,0,0,137.0
+6,18.0,Adrián Marín,ESP,LB,Valladolid,4.0,1996-12-25,362,0,1,1,0,123.0
+7,12.0,Aihen Muñoz,ESP,LB,Betis,21.0,1997-07-23,1210,0,1,6,0,505.0
+8,13.0,Aitor Fernández,ESP,GK,Elche,20.0,1991-04-21,2610,0,0,0,0,709.0
+9,24.0,Aitor Ruibal,ESP,LW,Atlético Madrid,5.0,1996-03-07,1593,2,2,2,0,411.0
+10,1.0,Alberto Cifuentes,ESP,GK,Atlético Madrid,19.0,1979-06-09,180,0,0,0,0,27.0
+11,18.0,Alberto Moreno,ESP,LB,Real Madrid,33.0,1992-06-20,193,0,0,0,0,85.0
+12,10.0,Alberto Perea,ESP,LW,Valladolid,15.0,1990-12-04,1549,2,3,0,0,379.0
+13,26.0,Alberto Soro,ESP,RM,Valladolid,5.0,1999-02-22,393,1,2,1,0,92.0
+14,19.0,Aleix García,ESP,CM,Barcelona,18.0,1997-06-13,437,0,1,1,0,227.0
+15,17.0,Aleix Vidal,ESP,RB,Villarreal,63.0,1989-08-08,595,0,1,2,0,423.0
+16,16.0,Alejandro Blanco,ESP,LM,Real Madrid,10.0,1998-11-24,580,1,0,1,0,101.0
+17,27.0,Alejandro Blesa,ESP,CM,Athletic Club,12.0,2001-12-28,11,0,0,0,0,12.0
+18,22.0,Alejandro Pozo Pozo,ESP,RB,Real Madrid,7.0,1999-02-07,2190,0,0,4,0,829.0
+19,32.0,Alex Baena,ESP,RM,Real Madrid,3.0,2001-07-03,137,0,0,0,0,43.0
+20,19.0,Alexander Isak,SWE,FW,Levante,8.0,1999-09-05,2340,17,2,4,0,319.0
+21,36.0,Alfon,ESP,RM,Elche,5.0,1999-04-27,34,0,0,0,0,16.0
+22,22.0,Alfonso Espino,URU,LB,Valencia,14.0,1991-12-22,2601,0,3,6,0,650.0
+23,24.0,Alfonso Pedraza,ESP,LB,Granada,34.0,1996-03-23,2018,1,2,8,0,906.0
+24,12.0,Allan Nyom,CMR,LB,Betis,41.0,1988-04-27,2323,0,2,10,1,577.0
+25,23.0,Anaitz Arbilla,ESP,CB,Real Madrid,34.0,1987-05-03,2807,0,1,8,0,1459.0
+26,22.0,Ander Barrenetxea,ESP,LW,Levante,2.0,2001-12-10,1307,3,0,7,0,291.0
+27,21.0,Ander Capa,ESP,RB,Real Sociedad,17.0,1992-01-29,2131,2,1,5,0,900.0
+28,16.0,Ander Guevara,ESP,DM,Levante,58.0,1997-06-21,2081,1,1,5,0,1175.0
+29,18.0,Andoni Gorosabel,ESP,RB,Levante,44.0,1996-07-19,2382,0,1,3,0,1143.0
+30,13.0,Andrés Fernández,ESP,GK,Elche,28.0,1986-12-05,1440,0,0,0,0,395.0
+31,18.0,Andrés Guardado,MEX,DM,Atlético Madrid,29.0,1986-09-16,1318,1,0,4,0,654.0
+32,22.0,Ansu Fati,ESP,FW,Betis,17.0,2002-10-30,431,4,0,1,0,168.0
+33,17.0,Ante Budimir,CRO,FW,Celta Vigo,5.0,1991-07-08,1625,11,0,3,0,238.0
+34,14.0,Ante Palaversa,CRO,DM,Levante,3.0,2000-04-04,9,0,0,0,0,7.0
+35,9.0,Anthony Lozano,HON,LM,Valencia,5.0,1993-04-10,1523,3,1,5,0,158.0
+36,7.0,Antoine Griezmann,FRA,RW,Osasuna,49.0,1991-03-08,2604,13,7,4,0,1168.0
+37,19.0,Antonio Barragán,ESP,CB,Eibar,25.0,1987-05-31,2235,0,3,8,0,1091.0
+38,10.0,Antonio Puertas,ESP,LB,Valladolid,20.0,1992-02-08,2170,3,5,6,0,418.0
+39,19.0,Antonio Sanabria,PAR,FW,Real Madrid,6.0,1996-02-25,932,3,0,2,0,159.0
+40,13.0,Antonio Sivera,ESP,GK,Getafe,11.0,1996-07-27,71,0,0,0,0,11.0
+41,23.0,Aridane Hernández,ESP,CB,Valencia,46.0,1989-03-11,2026,0,0,3,1,568.0
+42,6.0,Aritz Elustondo,ESP,CB,Levante,61.0,1994-03-13,1884,1,0,5,0,1058.0
+43,4.0,Asier Illarramendi,ESP,DM,Huesca,5.0,1990-02-23,337,0,0,2,0,253.0
+44,20.0,Asier Villalibre,ESP,FW,Alavés,11.0,1997-09-15,1589,4,2,1,0,181.0
+45,17.0,Augusto Fernández,ARG,CM,Valladolid,10.0,1986-03-27,369,0,0,1,0,91.0
+46,21.0,Augusto Solari,ARG,LM,Elche,11.0,1991-12-21,486,2,2,2,0,148.0
+47,23.0,Aïssa Mandi,ALG,CB,Granada,53.0,1991-10-09,2392,3,1,6,2,1387.0
+48,42.0,Barcia,ESP,LB,Valladolid,13.0,2000-12-29,90,0,0,1,0,13.0
+49,31.0,Blanco,,DM,Valencia,,2000-07-08,220,0,0,0,0,0.0
+50,32.0,Bobby Adekanye,NED,LM,Real Madrid,0.0,1999-02-12,36,0,0,0,0,7.0
+51,24.0,Borja García,ESP,FW,Alavés,6.0,1990-10-09,1117,1,0,0,0,480.0
+52,9.0,Borja Iglesias,ESP,FW,Atlético Madrid,13.0,1993-01-03,1411,11,0,2,0,193.0
+53,16.0,Borja Mayoral,ESP,FW,Villarreal,0.0,1997-04-11,23,0,0,0,0,3.0
+54,29.0,Borja Sainz,ESP,LM,Celta Vigo,1.0,2001-01-16,453,1,0,1,0,81.0
+55,23.0,Brais Méndez,ESP,RM,Elche,46.0,1996-12-23,2671,9,0,8,0,919.0
+56,6.0,Bruno González,ESP,CB,Barcelona,19.0,1990-05-11,2263,1,0,8,0,602.0
+57,25.0,Bryan Gil,ESP,RM,Real Madrid,17.0,2001-01-26,2278,4,3,6,0,687.0
+58,18.0,Burgui,ESP,RM,Villarreal,9.0,1993-10-21,21,0,0,0,0,9.0
+59,16.0,Cala,ESP,CB,Sevilla,9.0,1989-11-14,2272,3,0,8,0,523.0
+60,11.0,Carles Aleñá,ESP,CM,Betis,36.0,1997-12-21,1414,2,2,2,0,426.0
+61,15.0,Carlos Akapo,EQG,RB,Valladolid,24.0,1993-02-24,865,1,0,3,1,229.0
+62,9.0,Carlos Bacca,COL,FW,Granada,8.0,1986-08-25,725,5,0,1,0,96.0
+63,19.0,Carlos Clerc,ESP,LB,Athletic Club,15.0,1992-02-06,2781,0,3,5,0,1304.0
+64,40.0,Carlos Dominguez,ESP,CB,Elche,49.0,2001-01-26,360,0,0,2,0,126.0
+65,9.0,Carlos Fernández,ESP,AM,Levante,3.0,1996-05-06,533,1,2,5,0,102.0
+66,15.0,Carlos Neva,ESP,WB,Valladolid,15.0,1996-05-29,1797,0,0,1,0,421.0
+67,8.0,Carlos Soler,ESP,CM,Villarreal,37.0,1996-12-18,2735,11,8,7,0,1272.0
+68,14.0,Casemiro,BRA,CM,Barcelona,25.0,1992-02-08,2901,6,4,11,1,1630.0
+69,25.0,Cheick Doukouré,CIV,CM,Eibar,0.0,1992-08-29,101,0,0,1,0,36.0
+70,6.0,Chema,ESP,CB,Betis,28.0,1992-02-18,557,0,0,3,1,102.0
+71,10.0,Christian Oliva,URU,CM,Getafe,2.0,1996-05-17,198,0,2,0,0,85.0
+72,23.0,Cifu,ESP,RB,Alavés,11.0,1990-09-21,451,0,0,1,0,158.0
+73,25.0,Claudio Bravo,CHI,GK,Atlético Madrid,17.0,1983-04-02,1800,0,0,3,0,422.0
+74,15.0,Clément Lenglet,FRA,CB,Eibar,80.0,1995-06-04,2475,1,0,11,2,2130.0
+75,23.0,Coke,ESP,RB,Athletic Club,11.0,1987-04-12,835,0,0,1,0,363.0
+76,11.0,Cristian Tello,ESP,LW,Atlético Madrid,4.0,1991-07-29,1283,5,3,2,1,388.0
+77,24.0,Cristiano Piccini,ITA,RB,Villarreal,9.0,1992-09-12,67,0,0,0,0,22.0
+78,23.0,Cucho,COL,FW,Betis,8.0,1999-04-05,1466,2,3,5,0,337.0
+79,34.0,Cárdenas,ESP,GK,Athletic Club,22.0,1997-03-11,720,0,0,1,0,198.0
+80,19.0,Damian Kądzior,POL,RW,Betis,12.0,1992-06-14,195,0,0,0,0,44.0
+81,22.0,Damián Suárez,URU,RB,Betis,21.0,1988-04-14,2434,1,0,13,1,863.0
+82,12.0,Dani Calvo,ESP,CB,Eibar,36.0,1994-03-18,1779,2,0,3,0,637.0
+83,2.0,Dani Carvajal,ESP,RB,Alavés,47.0,1991-12-30,950,0,2,5,0,673.0
+84,23.0,Dani Escriche,ESP,DM,Cádiz,7.0,1998-03-08,801,1,1,4,1,184.0
+85,14.0,Dani García,ESP,CM,Athletic Club,19.0,1990-05-11,1920,0,1,8,0,865.0
+86,21.0,Dani Gómez,ESP,FW,Athletic Club,21.0,1998-07-13,1666,2,2,3,0,252.0
+87,38.0,Dani Plomer,ESP,RW,Valladolid,3.0,1998-11-29,45,0,0,0,0,3.0
+88,12.0,Dani Raba,ESP,FW,Granada,3.0,1995-10-13,150,0,0,0,0,63.0
+89,5.0,Daniel Parejo,ESP,CM,Granada,56.0,1989-04-01,3022,3,5,4,0,2371.0
+90,18.0,Daniel Wass,DEN,CM,Villarreal,34.0,1989-05-18,2979,4,1,8,0,1237.0
+91,8.0,Darko Brašanac,SRB,CM,Granada,13.0,1992-01-30,909,2,0,4,0,215.0
+92,11.0,Darwin Machís,VEN,LM,Valladolid,5.0,1993-01-24,2026,5,5,1,0,327.0
+93,19.0,Darío Poveda,ESP,FW,Cádiz,2.0,1997-02-26,5,0,0,0,0,2.0
+94,7.0,David Ferreiro,ESP,CM,Cádiz,24.0,1988-03-18,2527,2,4,5,0,701.0
+95,5.0,David García,ESP,CB,Celta Vigo,34.0,1994-01-30,3150,1,0,8,0,988.0
+96,13.0,David Gil,ESP,GK,Valladolid,15.0,1993-12-26,360,0,0,0,0,47.0
+97,21.0,David Silva,ESP,AM,Levante,32.0,1985-12-26,1399,2,5,4,0,720.0
+98,13.0,David Soria,ESP,GK,Celta Vigo,16.0,1993-03-22,2520,0,0,2,0,399.0
+99,24.0,David Timor,ESP,CB,Levante,9.0,1989-10-04,1395,0,0,5,1,393.0
+100,17.0,Denis Cheryshev,RUS,LM,Real Madrid,1.0,1990-12-13,1101,0,3,3,0,195.0
+101,6.0,Denis Suárez,ESP,CM,Elche,62.0,1993-12-23,2852,0,9,10,0,1650.0
+102,25.0,Denis Vavro,SVK,CB,Cádiz,4.0,1996-03-25,611,0,0,1,0,244.0
+103,14.0,Deyverson,BRA,FW,Villarreal,0.0,1991-04-26,874,1,3,4,0,150.0
+104,20.0,Diego Carlos,BRA,CB,Betis,41.0,1993-02-28,2788,1,0,11,1,1690.0
+105,19.0,Diego Costa,ESP,FW,Valencia,2.0,1988-10-08,208,2,0,1,0,57.0
+106,2.0,Diego González,ESP,CB,Alavés,58.0,1995-01-13,1280,1,0,5,0,660.0
+107,20.0,Diego Lainez,MEX,RW,Atlético Madrid,4.0,2000-05-24,862,0,2,5,0,272.0
+108,3.0,Diego Llorente,ESP,CB,Real Sociedad,48.0,1993-08-23,90,0,0,0,0,48.0
+109,2.0,Dimitri Foulquier,FRA,RB,Valladolid,22.0,1993-03-09,2663,0,4,7,0,817.0
+110,18.0,Dimitris Siovas,GRE,CB,Cádiz,25.0,1988-09-02,2981,2,0,5,0,1476.0
+111,2.0,Djené,TOG,CB,Betis,33.0,1991-12-18,2941,0,1,8,2,757.0
+112,22.0,Domingos Duarte,POR,CB,Osasuna,47.0,1995-02-24,2363,1,0,5,1,742.0
+113,12.0,Domingos Quina,POR,CM,Osasuna,3.0,1999-11-03,341,2,0,1,0,68.0
+114,7.0,Eden Hazard,BEL,LW,Atlético Madrid,13.0,1990-12-25,532,3,2,0,0,298.0
+115,44.0,Edgar Sevikyan,ARM,RM,Elche,3.0,2001-08-06,8,0,0,0,0,3.0
+116,10.0,Edu Expósito,ESP,CM,Barcelona,35.0,1996-07-17,2455,0,3,4,0,853.0
+117,4.0,Eliaquim Mangala,FRA,CB,Villarreal,5.0,1991-01-31,321,0,0,1,0,75.0
+118,22.0,Emerson,BRA,RB,Atlético Madrid,29.0,1998-12-30,2991,1,4,9,1,1533.0
+119,22.0,Emiliano Rigoni,ARG,RM,Elche,1.0,1993-01-23,1139,1,1,5,0,298.0
+120,40.0,Emmanuel Amankwaa Akurugu,GHA,LB,Huesca,9.0,2001-11-05,45,0,0,0,0,9.0
+121,11.0,Emre Mor,TUR,RM,Elche,6.0,1997-07-17,500,0,0,2,0,85.0
+122,10.0,Enes Ünal,TUR,FW,Betis,20.0,1997-04-25,1318,4,2,4,0,204.0
+123,10.0,Enis Bardhi,MKD,LM,Athletic Club,31.0,1995-06-16,1682,1,2,4,0,656.0
+124,19.0,Enric Gallego,ESP,FW,Celta Vigo,9.0,1986-08-30,806,0,2,2,0,146.0
+125,3.0,Erick Cabaco,URU,CB,Betis,0.0,1995-04-05,1326,0,0,9,0,301.0
+126,2.0,Esteban Burgos,ARG,CB,Huesca,47.0,1991-12-14,1111,3,1,5,0,417.0
+127,8.0,Eugeni Valderrama,ESP,CM,Alavés,18.0,1994-07-20,115,0,0,0,0,67.0
+128,9.0,Ezequiel Ávila,ARG,CM,Granada,2.0,1994-01-23,202,0,0,0,0,31.0
+129,28.0,Eñaut Mendía,ESP,RW,Levante,4.0,1999-06-29,61,0,0,1,0,4.0
+130,12.0,Fabián Orellana,CHI,LM,Valladolid,32.0,1986-01-15,2138,6,2,5,0,572.0
+131,12.0,Facundo Ferreyra,ARG,LM,Athletic Club,2.0,1991-03-02,300,1,0,5,1,33.0
+132,37.0,Facundo Pellistri,URU,RW,Getafe,9.0,2001-12-04,542,0,0,0,0,73.0
+133,12.0,Facundo Roncaglia,ARG,CB,Atlético Madrid,28.0,1987-01-29,1232,1,1,3,1,385.0
+134,3.0,Fali,ESP,CB,Valladolid,13.0,1993-07-27,2637,0,0,11,0,505.0
+135,20.0,Fede San Emeterio,ESP,CM,Huesca,42.0,1997-03-01,1460,0,0,7,0,426.0
+136,14.0,Fede Vico,ESP,CM,Valladolid,27.0,1994-06-20,767,0,0,1,0,213.0
+137,15.0,Federico Valverde,URU,RM,Barcelona,38.0,1998-07-05,1330,3,1,0,0,673.0
+138,18.0,Felipe,BRA,CB,Real Sociedad,40.0,1989-05-03,2057,0,0,8,0,889.0
+139,23.0,Ferland Mendy,FRA,LB,Alavés,18.0,1995-05-18,2208,1,0,3,0,1302.0
+140,25.0,Fernando,BRA,DM,Betis,71.0,1987-07-12,2546,3,4,6,0,1423.0
+141,34.0,Fernando Niño,ESP,FW,Real Madrid,0.0,2000-10-07,586,3,0,1,0,93.0
+142,1.0,Fernando Pacheco,ESP,GK,Getafe,5.0,1992-05-04,3349,0,0,1,0,748.0
+143,16.0,Fidel,ESP,LB,Eibar,57.0,1989-10-14,2396,6,3,8,0,892.0
+144,24.0,Filip Malbašić,SRB,FW,Valladolid,0.0,1992-11-02,860,0,1,2,0,90.0
+145,22.0,Florian Lejeune,FRA,CB,Getafe,30.0,1991-05-07,3015,1,1,10,0,1130.0
+146,8.0,Fran Beltrán,ESP,DM,Elche,51.0,1999-01-19,1399,3,0,3,0,697.0
+147,19.0,Francis Coquelin,FRA,CM,Granada,13.0,1991-04-28,721,0,0,4,0,432.0
+148,8.0,Francisco Portillo,ESP,CM,Atlético Madrid,12.0,1990-05-21,418,0,1,1,0,196.0
+149,6.0,Francisco Reis Ferreira,POR,CB,Real Madrid,24.0,1997-03-11,181,0,0,0,0,67.0
+150,17.0,Francisco Trincão,POR,RW,Osasuna,14.0,1999-12-14,706,3,2,1,0,327.0
+151,22.0,Franco Vázquez,ARG,LM,Villarreal,29.0,1989-02-09,164,1,0,1,0,94.0
+152,21.0,Frenkie de Jong,NED,CB,Osasuna,77.0,1997-04-27,3154,3,4,5,0,2575.0
+153,5.0,Gabriel Paulista,BRA,CB,Villarreal,47.0,1990-11-13,2716,4,1,6,0,1332.0
+154,31.0,Gabriel Veiga,ESP,RB,Elche,1.0,2002-05-11,118,0,0,0,0,24.0
+155,22.0,Gastón Silva,URU,CB,Cádiz,47.0,1994-02-18,518,0,0,2,0,240.0
+156,4.0,Geoffrey Kondogbia,CTA,DM,Real Sociedad,2.0,1993-02-01,1051,0,0,5,0,490.0
+157,7.0,Gerard Moreno,ESP,FW,Granada,31.0,1992-03-22,2673,23,7,3,0,757.0
+158,3.0,Gerard Piqué,ESP,CB,Eibar,62.0,1987-01-22,1481,0,0,3,0,1170.0
+159,6.0,Germán Sánchez,ESP,CB,Valladolid,11.0,1986-11-30,2638,3,1,11,1,717.0
+160,13.0,Gerónimo Rulli,ARG,GK,Granada,37.0,1992-05-04,180,0,0,0,0,79.0
+161,43.0,Giorgi Kochorashvili,GEO,LM,Elche,2.0,1999-06-15,23,0,0,0,0,6.0
+162,22.0,Gonzalo Melero,ESP,CM,Athletic Club,67.0,1993-12-17,1853,7,1,4,0,920.0
+163,5.0,Gonzalo Verdú,ESP,CB,Eibar,34.0,1988-10-08,2944,0,2,11,0,1335.0
+164,7.0,Gonçalo Guedes,POR,LM,Villarreal,20.0,1996-11-14,2287,5,5,3,1,571.0
+165,21.0,Guido Carrillo,ARG,FW,Alavés,8.0,1991-05-11,1002,3,2,3,0,216.0
+166,21.0,Guido Rodríguez,ARG,DM,Atlético Madrid,25.0,1994-03-29,2864,1,0,10,0,1378.0
+167,31.0,Guillem Molina,ESP,RB,Real Madrid,39.0,2000-04-06,153,0,0,1,0,56.0
+168,18.0,Helibelton Palacios,COL,RB,Eibar,10.0,1993-05-28,743,0,0,0,0,247.0
+169,34.0,Hugo Duro,ESP,FW,Barcelona,5.0,1999-10-31,55,0,0,0,0,6.0
+170,15.0,Hugo Guillamón,,CB,Villarreal,,2000-01-16,1988,1,0,8,0,0.0
+171,2.0,Hugo Mallo,ESP,CB,Real Sociedad,4.0,1991-06-10,2602,3,1,8,0,1315.0
+172,44.0,Hugo Sotelo,ESP,CM,Real Sociedad,0.0,2003-12-04,1,0,0,0,0,0.0
+173,16.0,Héctor Herrera,MEX,DM,Real Sociedad,6.0,1990-04-06,682,0,1,2,0,594.0
+174,10.0,Iago Aspas,ESP,FW,Elche,28.0,1987-07-20,2864,14,13,9,0,983.0
+175,7.0,Ibai Gómez,ESP,LM,Alavés,14.0,1989-10-29,424,0,1,0,0,109.0
+176,2.0,Idrissa Doumbia,CIV,FW,Atlético Madrid,16.0,1998-03-31,689,0,0,4,0,330.0
+177,29.0,Iglesias,ESP,RB,Betis,24.0,1998-06-18,605,0,0,2,0,111.0
+178,5.0,Igor Zubeldia,ESP,CB,Eibar,37.0,1997-03-16,1959,1,1,5,0,1060.0
+179,10.0,Iker Muniain,ESP,LM,Alavés,36.0,1992-11-26,1943,5,3,1,0,850.0
+180,27.0,Ilaix Moriba,GUI,CM,Osasuna,29.0,2003-01-03,542,1,2,1,0,339.0
+181,20.0,Isaac Carcelen,ESP,LB,Valladolid,25.0,1993-04-07,2581,0,1,3,0,769.0
+182,22.0,Isco,ESP,AM,Barcelona,12.0,1992-04-05,908,0,2,1,0,632.0
+183,29.0,Isma Ruiz,ESP,DM,Valladolid,14.0,2001-02-12,67,0,0,0,0,14.0
+184,10.0,Ivan Rakitić,CRO,CM,Villarreal,29.0,1988-02-26,2233,4,2,5,0,1480.0
+185,12.0,Ivan Šaponjić,SRB,FW,Valencia,10.0,1997-07-17,388,1,0,2,0,59.0
+186,14.0,Iván Alejo,ESP,RM,Valencia,11.0,1995-01-26,827,1,1,5,0,127.0
+187,4.0,Iván Marcone,ARG,CM,Eibar,14.0,1990-05-21,2645,0,0,10,1,1319.0
+188,1.0,Iván Villar,ESP,GK,Elche,29.0,1997-06-24,1781,0,0,1,0,411.0
+189,9.0,Iñaki Williams,GHA,FW,Alavés,1.0,1994-06-01,2387,6,6,1,0,375.0
+190,17.0,Iñigo Córdoba,ESP,LM,Osasuna,6.0,1997-02-18,311,0,0,0,0,61.0
+191,15.0,Iñigo Lekue,ESP,RB,Alavés,61.0,1993-04-20,644,0,0,1,0,327.0
+192,4.0,Iñigo Martínez,ESP,CB,Athletic Club,36.0,1991-05-04,2519,1,0,9,1,1208.0
+193,21.0,Iñigo Pérez,ESP,CM,Celta Vigo,26.0,1988-01-05,1347,0,0,4,1,460.0
+194,26.0,Iñigo Vicente,ESP,LM,Alavés,11.0,1997-12-22,52,0,0,0,0,43.0
+195,7.0,Jaime Mata,ESP,FW,Betis,1.0,1988-10-11,2037,5,0,9,1,389.0
+196,20.0,Jaime Seoane,ESP,CM,Cádiz,22.0,1997-01-06,1974,1,1,5,0,619.0
+197,25.0,Jairo Izquierdo,ESP,RM,Valladolid,5.0,1993-10-06,1277,1,0,4,0,327.0
+198,13.0,Jan Oblak,SVN,GK,Real Sociedad,12.0,1992-12-24,3420,0,0,0,0,642.0
+199,23.0,Jason,ESP,AM,Getafe,1.0,1994-06-22,441,0,0,4,1,87.0
+200,13.0,Jasper Cillessen,NED,GK,Villarreal,20.0,1989-04-09,900,0,0,0,0,194.0
+201,21.0,Jaume Costa,ESP,LB,Real Madrid,6.0,1988-03-04,351,0,1,1,0,202.0
+202,1.0,Jaume Doménech,ESP,GK,Osasuna,17.0,1990-10-23,2520,0,0,1,0,612.0
+203,11.0,Javi Galán,ESP,LW,Cádiz,27.0,1994-11-04,2975,1,2,5,0,1346.0
+204,26.0,Javi López,ESP,LB,Osasuna,30.0,2001-12-08,248,0,0,1,0,109.0
+205,28.0,Javi Martínez,ESP,CM,Celta Vigo,3.0,1999-12-06,460,1,1,1,0,104.0
+206,17.0,Javi Moyano,ESP,RB,Alavés,5.0,1986-03-03,103,0,0,0,0,28.0
+207,5.0,Javi Sánchez,ESP,CB,Getafe,42.0,1997-02-27,921,0,0,3,0,294.0
+208,15.0,Javier Ontiveros,ESP,AM,Barcelona,19.0,1997-08-29,863,2,1,4,0,334.0
+209,15.0,Jawad El Yamiq,MAR,CB,Huesca,29.0,1992-02-16,1379,0,1,6,0,494.0
+210,20.0,Jeison Lucumí,COL,RM,Granada,0.0,1995-04-08,49,0,0,0,0,8.0
+211,24.0,Jeison Murillo,COL,CB,Athletic Club,35.0,1992-05-14,2699,2,0,11,1,1438.0
+212,2.0,Jens Jønsson,DEN,RM,Valladolid,8.0,1992-12-25,2615,0,0,6,0,526.0
+213,1.0,Jeremías Ledesma,ARG,GK,Cádiz,28.0,1993-01-31,2880,0,0,0,0,480.0
+214,16.0,Jesús Navas,ESP,RB,Betis,47.0,1985-11-08,2827,0,6,4,0,1668.0
+215,20.0,Jesús Vallejo,ESP,CB,Valladolid,10.0,1996-12-21,1348,0,0,2,1,375.0
+216,8.0,Joan Jordán,ESP,RM,Villarreal,41.0,1994-06-22,2406,1,6,8,1,1771.0
+217,17.0,Joaquín,ESP,RW,Valladolid,20.0,1981-07-09,1291,2,6,2,0,606.0
+218,24.0,Joaquín Fernández,ESP,CB,Getafe,36.0,1996-05-16,2073,1,0,8,0,615.0
+219,6.0,Joaquín Muñoz,ESP,RW,Celta Vigo,8.0,1999-03-15,41,0,0,0,0,10.0
+220,1.0,Joel Robles,ESP,GK,Elche,15.0,1990-06-07,1620,0,0,2,0,358.0
+221,25.0,Johan Mojica,COL,LB,Eibar,8.0,1992-08-07,1204,0,0,3,0,504.0
+222,26.0,John Donald,ESP,CM,Atlético Madrid,0.0,2000-08-19,50,0,0,0,0,18.0
+223,10.0,John Guidetti,SWE,FW,Getafe,18.0,1992-04-01,208,1,0,1,0,49.0
+224,38.0,John Joe,IRL,LM,Real Madrid,0.0,2003-10-19,65,0,0,0,0,9.0
+225,13.0,Jokin Ezkieta,ESP,GK,Alavés,22.0,1996-08-02,90,0,0,0,0,22.0
+226,5.0,Jon Ander Garrido,ESP,CB,Valladolid,7.0,1989-09-24,800,0,0,1,0,180.0
+227,25.0,Jon Bautista,ESP,FW,Huesca,5.0,1995-06-19,370,0,1,3,0,56.0
+228,14.0,Jon Guridi,ESP,DM,Eibar,58.0,1995-02-15,831,0,1,2,0,289.0
+229,27.0,Jon Moncayola,ESP,CM,Celta Vigo,29.0,1998-04-27,2660,2,0,7,1,934.0
+230,2.0,Jon Morcillo,ESP,LM,Athletic Club,13.0,1998-08-31,1363,2,2,3,0,316.0
+231,26.0,Jon Pacheco,ESP,CB,Eibar,46.0,2000-12-24,32,0,0,0,0,46.0
+232,16.0,Jonathan Calleri,ARG,FW,Celta Vigo,16.0,1993-08-29,1544,5,2,4,0,211.0
+233,7.0,Jony,ESP,LW,Celta Vigo,4.0,1991-06-25,871,0,2,0,0,223.0
+234,37.0,Jony Álamo,ESP,CM,Atlético Madrid,14.0,2001-09-14,73,0,0,0,0,14.0
+235,15.0,Jonás Ramalho,ESP,CB,Celta Vigo,12.0,1993-05-26,304,0,0,0,0,99.0
+236,39.0,Jordan Holsgrove,SCO,RM,Real Sociedad,5.0,1999-08-27,145,0,0,0,0,90.0
+237,18.0,Jordi Alba,ESP,LB,Osasuna,39.0,1989-03-08,3025,3,5,9,0,2479.0
+238,1.0,Jordi Masip,ESP,GK,Huesca,22.0,1988-12-21,2250,0,0,3,0,422.0
+239,20.0,Jorge Miramón,ESP,RB,Elche,37.0,1989-05-21,1732,0,3,1,0,807.0
+240,23.0,Jorge Molina,ESP,FW,Valladolid,10.0,1982-04-11,1615,8,2,3,0,289.0
+241,11.0,Jorge Pombo,ESP,LM,Valladolid,5.0,1994-02-06,523,1,0,1,0,135.0
+242,14.0,Jorge Pulido,ESP,CB,Cádiz,35.0,1991-03-25,2795,1,0,6,1,1318.0
+243,18.0,Jorge de Frutos,ESP,RM,Athletic Club,19.0,1997-02-03,2186,4,9,3,0,481.0
+244,17.0,Josan,ESP,RB,Eibar,27.0,1989-11-20,1926,4,2,3,0,600.0
+245,2.0,Joseba Zaldúa,ESP,RB,Huesca,10.0,1992-06-10,639,0,0,3,0,307.0
+246,9.0,Joselu,ESP,FW,Getafe,4.0,1990-03-14,3026,11,3,1,0,600.0
+247,24.0,Josema,ESP,CB,Eibar,6.0,1996-05-22,1966,0,1,3,0,781.0
+248,18.0,Joseph Aidoo,GHA,CB,Real Sociedad,31.0,1995-09-16,1289,0,0,3,0,511.0
+249,32.0,José Antonio Miranda,EQG,LM,Betis,1.0,1998-07-07,26,0,0,1,0,9.0
+250,24.0,José Campaña,ESP,LM,Elche,58.0,1993-06-01,748,1,2,0,0,398.0
+251,29.0,José Fontán,ESP,LB,Athletic Club,17.0,2000-01-28,652,0,0,3,1,285.0
+252,14.0,José Luis Gayà,ESP,LB,Villarreal,31.0,1995-05-11,2846,1,7,6,0,1172.0
+253,11.0,José Luis Morales,ESP,LM,Athletic Club,7.0,1987-07-09,2439,13,3,3,0,495.0
+254,6.0,José Mari,ESP,LM,Valladolid,17.0,1987-11-22,1451,1,0,5,0,321.0
+255,2.0,José María Giménez,URU,CB,Real Sociedad,31.0,1995-01-06,1765,0,0,5,0,974.0
+256,15.0,José Ángel,ESP,LB,Barcelona,62.0,1989-08-23,901,0,0,3,0,510.0
+257,24.0,Jota,ESP,LW,Villarreal,3.0,1991-06-04,2066,1,2,6,1,499.0
+258,7.0,João Félix,POR,LM,Real Sociedad,10.0,1999-10-26,1572,7,5,6,0,567.0
+259,36.0,Juan Brunet,ARG,CM,Valladolid,2.0,1998-01-09,24,0,0,0,0,7.0
+260,21.0,Juan Carlos,ESP,AM,Sevilla,1.0,1991-03-08,291,0,1,0,0,76.0
+261,3.0,Juan Cruz Armada,ESP,CB,Granada,11.0,1992-07-14,1962,0,0,4,0,592.0
+262,8.0,Juan Foyth,ARG,RB,Cádiz,52.0,1997-12-28,1168,0,0,6,0,642.0
+263,33.0,Juan Miranda,ESP,LB,Atlético Madrid,6.0,2000-01-04,1652,1,2,4,0,691.0
+264,25.0,Juan Pérez,ESP,GK,Celta Vigo,26.0,1996-06-29,270,0,0,0,0,48.0
+265,3.0,Juan Sánchez Miño,ARG,LB,Cádiz,23.0,1989-12-29,495,0,0,2,0,240.0
+266,7.0,Juanmi,ESP,RW,Celta Vigo,4.0,1993-05-07,604,2,0,1,0,116.0
+267,12.0,Jules Koundé,FRA,CB,Villarreal,91.0,1998-10-28,2975,2,1,4,0,2133.0
+268,24.0,Junior Firpo,ESP,LM,Osasuna,29.0,1996-08-07,289,1,1,2,0,202.0
+269,9.0,Karim Benzema,FRA,FW,Barcelona,23.0,1987-12-05,2894,23,9,2,0,1029.0
+270,4.0,Karim Rekik,NED,CB,Villarreal,72.0,1994-11-18,653,0,0,2,0,433.0
+271,26.0,Kelechi Nwakali,NGA,FW,Betis,15.0,1998-05-29,141,0,0,1,0,70.0
+272,3.0,Kenan Kodro,BIH,FW,Getafe,10.0,1993-08-05,503,1,0,2,0,83.0
+273,24.0,Kenedy,BRA,LM,Celta Vigo,4.0,1996-01-26,1471,4,3,3,0,201.0
+274,20.0,Kevin Vázquez,ESP,RB,Elche,32.0,1993-03-09,562,0,0,3,0,260.0
+275,23.0,Kieran Trippier,ENG,RB,Real Sociedad,38.0,1990-09-06,2475,0,6,0,0,1406.0
+276,11.0,Kike Barja,ESP,LW,Celta Vigo,29.0,1997-03-16,1433,2,3,2,0,341.0
+277,8.0,Kike Pérez,ESP,CM,Huesca,2.0,1997-01-30,1159,0,0,3,0,422.0
+278,4.0,Kiko Olivas,ESP,CB,Huesca,39.0,1988-08-08,177,0,0,1,0,89.0
+279,17.0,Kiké,ESP,FW,Real Madrid,20.0,1989-11-12,3087,12,2,4,1,574.0
+280,44.0,Kingsley Fobi,GHA,RB,Valladolid,7.0,1998-09-20,45,0,0,0,0,7.0
+281,27.0,Koba Koindredi,FRA,CM,Betis,5.0,2001-10-19,15,0,0,0,0,8.0
+282,6.0,Koke,ESP,CM,Real Sociedad,66.0,1991-12-26,3021,1,2,9,0,2178.0
+283,1.0,Koke Vegas,ESP,GK,Sevilla,19.0,1995-10-03,90,0,0,0,0,19.0
+284,27.0,Kuki,ESP,AM,Villarreal,4.0,1998-04-27,30,0,1,0,0,6.0
+285,9.0,Kévin Gameiro,FRA,FW,Villarreal,3.0,1987-04-27,1077,4,1,0,0,206.0
+286,24.0,Kévin Rodrigues,POR,LM,Barcelona,9.0,1994-02-19,1095,1,1,1,0,358.0
+287,38.0,Lauti,URU,LM,Alavés,2.0,2001-02-05,14,0,0,0,0,2.0
+288,20.0,Lee Kang-in,KOR,RM,Villarreal,20.0,2001-02-03,1262,0,4,1,0,442.0
+289,10.0,Lionel Messi,ARG,FW,Eibar,61.0,1987-06-13,3023,30,9,4,0,1954.0
+290,16.0,Loren Morón,ESP,FW,Atlético Madrid,0.0,1993-12-16,991,1,0,2,0,117.0
+291,9.0,Lucas Boyé,ARG,FW,Eibar,23.0,1996-02-14,2694,7,2,9,1,491.0
+292,5.0,Lucas Ocampos,ARG,LW,Villarreal,14.0,1994-06-27,2631,5,4,3,0,736.0
+293,25.0,Lucas Olaza,URU,LB,Huesca,43.0,1994-07-07,2875,1,3,8,0,1247.0
+294,7.0,Lucas Pérez,ESP,FW,Getafe,1.0,1988-08-28,1759,4,4,1,0,416.0
+295,5.0,Lucas Torreira,URU,CM,Athletic Club,12.0,1996-01-31,518,1,0,2,0,272.0
+296,24.0,Lucas Torró,ESP,CM,Celta Vigo,14.0,1994-07-04,1548,0,1,4,0,504.0
+297,17.0,Lucas Vázquez,ESP,RB,Alavés,17.0,1991-06-11,1848,2,5,3,0,1215.0
+298,7.0,Luis Javier Suárez,COL,LM,Valladolid,5.0,1997-11-17,1666,5,1,6,0,171.0
+299,5.0,Luis Milla,ESP,CM,Alavés,21.0,1994-09-30,1253,1,1,1,0,416.0
+300,2.0,Luis Pérez,ESP,RB,Getafe,13.0,1995-01-21,1297,0,0,1,0,434.0
+301,11.0,Luis Rioja,ESP,LM,Getafe,6.0,1993-10-02,2090,4,2,4,0,435.0
+302,9.0,Luis Suárez,URU,FW,Real Sociedad,14.0,1987-01-12,2508,21,3,6,0,418.0
+303,16.0,Luisinho,POR,LB,Alavés,43.0,1985-05-08,171,0,0,0,0,92.0
+304,15.0,Luismi,ESP,CM,Elche,1.0,1992-04-23,168,0,0,0,0,97.0
+305,18.0,Luka Jović,SRB,FW,Eibar,5.0,1997-12-27,149,0,0,0,0,33.0
+306,10.0,Luka Modrić,CRO,LM,Barcelona,71.0,1985-08-26,2733,5,3,4,0,1979.0
+307,9.0,Luuk de Jong,NED,FW,Villarreal,5.0,1990-08-14,1268,4,0,3,0,246.0
+308,19.0,Manu García,ESP,LM,Getafe,25.0,1986-04-14,1124,0,0,8,1,280.0
+309,39.0,Manu Sánchez,ESP,LB,Celta Vigo,34.0,2000-08-07,1025,0,5,4,0,418.0
+310,14.0,Manu Trigueros,ESP,LM,Granada,34.0,1991-10-02,2466,1,6,6,1,1338.0
+311,21.0,Manu Vallejo,ESP,RM,Villarreal,2.0,1997-01-30,950,5,0,2,0,192.0
+312,5.0,Marc Bartra,ESP,CB,Atlético Madrid,20.0,1991-01-02,1694,0,1,3,0,776.0
+313,27.0,Marc Baró,ESP,LB,Barcelona,11.0,1999-08-15,90,0,0,0,0,11.0
+314,17.0,Marc Cardona,ESP,FW,Elche,5.0,1995-07-14,53,0,0,0,0,18.0
+315,15.0,Marc Cucurella,ESP,LM,Betis,32.0,1998-07-07,3244,3,2,8,0,923.0
+316,1.0,Marc-André ter Stegen,GER,GK,Eibar,31.0,1992-04-17,2790,0,0,1,0,925.0
+317,12.0,Marcelo,BRA,WB,Barcelona,8.0,1988-04-27,1050,0,2,3,0,699.0
+318,11.0,Marco Asensio,ESP,RW,Barcelona,19.0,1996-01-05,1869,5,2,1,0,798.0
+319,19.0,Marcos Acuña,ARG,LB,Betis,61.0,1991-10-14,2330,1,2,5,0,1415.0
+320,16.0,Marcos André,BRA,FW,Huesca,9.0,1996-10-05,1177,4,1,3,0,114.0
+321,14.0,Marcos Llorente,ESP,RM,Real Sociedad,40.0,1995-01-16,2956,12,11,6,0,1097.0
+322,4.0,Marcos Mauro López Gutiérrez,ARG,CB,Valencia,24.0,1990-12-26,1825,2,0,2,1,405.0
+323,24.0,Mariano,DOM,FW,Barcelona,4.0,1993-07-16,513,1,0,0,0,75.0
+324,2.0,Mario Gaspar,ESP,RB,Granada,41.0,1990-11-09,1851,0,2,3,0,921.0
+325,22.0,Mario Hermoso,ESP,LB,Real Sociedad,40.0,1995-06-04,2578,1,1,6,0,1622.0
+326,1.0,Marko Dmitrović,SRB,GK,Barcelona,9.0,1992-01-11,3120,1,0,0,0,585.0
+327,21.0,Martin Agirregabiria,ESP,RB,Celta Vigo,33.0,1996-04-25,1558,0,1,1,0,534.0
+328,9.0,Martin Braithwaite,DEN,FW,Osasuna,10.0,1991-05-23,1175,2,2,3,0,228.0
+329,21.0,Martin Ødegaard,NOR,RM,Alavés,3.0,1998-12-13,234,0,0,0,0,145.0
+330,17.0,Martín Merquelanz,ESP,LW,Eibar,18.0,1995-05-30,549,0,1,0,0,176.0
+331,2.0,Martín Montoya,ESP,RB,Alavés,1.0,1991-04-08,239,0,0,0,1,126.0
+332,36.0,Martín Zubimendi,ESP,DM,Levante,62.0,1999-01-17,1882,0,0,6,0,983.0
+333,28.0,Marvin,ESP,RB,Levante,20.0,2000-06-19,133,0,1,0,0,68.0
+334,17.0,Mathías Olivera,URU,LB,Celta Vigo,34.0,1997-10-17,2614,0,0,6,0,783.0
+335,18.0,Mauro Arambarri,URU,CM,Levante,19.0,1995-09-16,2983,3,0,11,0,739.0
+336,22.0,Maxi Gómez,URU,FW,Villarreal,9.0,1996-07-30,2689,7,1,7,1,364.0
+337,4.0,Maxime Gonalons,FRA,DM,Osasuna,24.0,1989-02-25,1480,0,1,7,1,587.0
+338,12.0,Mickael Malsa,MTQ,CM,Athletic Club,76.0,1995-09-26,2338,1,0,5,0,1167.0
+339,33.0,Miguel Atienza,ESP,CM,Real Madrid,21.0,1999-05-12,838,0,0,1,0,271.0
+340,27.0,Miguel Baeza,ESP,DM,Elche,4.0,2000-03-11,543,1,0,0,0,169.0
+341,35.0,Miguel Gutiérrez,ESP,LB,Barcelona,52.0,2001-07-09,316,0,1,0,0,240.0
+342,32.0,Miguel Rodríguez,ESP,RM,Villarreal,1.0,2003-04-21,30,0,0,2,0,11.0
+343,30.0,Miguel Ángel Rubio,ESP,CB,Getafe,14.0,1998-02-16,135,0,0,0,0,39.0
+344,24.0,Mikel Balenziaga,ESP,LB,Alavés,53.0,1988-02-17,1689,0,1,0,0,715.0
+345,8.0,Mikel Merino,ESP,LM,Sevilla,43.0,1996-06-08,2154,2,4,5,0,908.0
+346,10.0,Mikel Oyarzabal,ESP,LW,Levante,19.0,1997-04-05,2408,11,8,1,0,673.0
+347,17.0,Mikel Rico,ESP,DM,Cádiz,15.0,1984-10-22,2149,1,4,2,0,687.0
+348,6.0,Mikel Vesga,ESP,CM,Alavés,20.0,1993-05-07,1722,0,1,7,0,703.0
+349,8.0,Miralem Pjanić,BIH,RM,Osasuna,12.0,1990-03-20,627,0,0,1,0,688.0
+350,15.0,Modibo Sagnan,FRA,CB,Eibar,62.0,1999-03-31,622,0,0,3,0,339.0
+351,23.0,Moi Gómez,ESP,LM,Granada,7.0,1994-06-07,2473,4,0,1,0,1054.0
+352,12.0,Mouctar Diakhaby,GUI,CB,Villarreal,37.0,1996-12-04,2079,1,0,4,1,841.0
+353,19.0,Moussa Dembélé,FRA,RW,Sevilla,1.0,1996-06-27,100,0,0,0,0,20.0
+354,11.0,Munir El Haddadi,MAR,RW,Osasuna,1.0,1995-08-07,845,4,2,2,0,273.0
+355,21.0,Míchel,ESP,CM,Huesca,25.0,1988-07-16,946,2,0,3,0,551.0
+356,8.0,Nabil Fekir,FRA,AM,Atlético Madrid,20.0,1993-07-04,2622,5,6,5,1,1048.0
+357,22.0,Nacho,ESP,LB,Barcelona,37.0,1989-02-22,3813,1,1,11,1,1860.0
+358,20.0,Nacho Monreal,ESP,LB,Levante,49.0,1986-02-13,2082,1,1,1,0,976.0
+359,2.0,Nacho Vidal,ESP,RB,Celta Vigo,33.0,1995-01-09,2348,0,0,10,0,709.0
+360,23.0,Nano,ESP,FW,Elche,1.0,1995-02-09,9,0,0,0,0,1.0
+361,3.0,Nehuén Pérez,ARG,CB,Osasuna,20.0,2000-06-08,741,0,0,4,0,150.0
+362,6.0,Nemanja Gudelj,SRB,CM,Villarreal,66.0,1991-11-03,1041,0,0,8,0,731.0
+363,20.0,Nemanja Maksimović,SRB,CM,Betis,33.0,1995-01-12,2728,1,0,5,0,582.0
+364,5.0,Nemanja Radoja,SRB,CM,Valencia,4.0,1993-01-15,1121,0,2,1,0,588.0
+365,13.0,Neto,BRA,GK,Osasuna,42.0,1989-07-06,630,0,0,0,0,212.0
+366,30.0,Nico Williams,ESP,RM,Sevilla,1.0,2002-07-02,57,0,0,0,0,9.0
+367,33.0,Nieto,ESP,RB,Alavés,1.0,1998-03-23,14,0,0,0,0,3.0
+368,17.0,Nikola Vukčević,MNE,CM,Huesca,25.0,1991-12-01,810,0,0,4,0,272.0
+369,7.0,Nino,ESP,FW,Eibar,1.0,1980-05-30,284,0,0,1,0,106.0
+370,9.0,Nolito,ESP,LM,Elche,16.0,1986-10-03,2597,7,5,7,0,725.0
+371,4.0,Néstor Araujo,MEX,CB,Elche,48.0,1991-08-16,2426,0,0,5,0,1321.0
+372,6.0,Oier Sanjurjo,ESP,CM,Celta Vigo,23.0,1986-05-12,2084,0,2,9,0,569.0
+373,19.0,Oier Zarraga,ESP,CM,Barcelona,8.0,1998-12-22,100,0,0,0,0,33.0
+374,16.0,Oihan Sancet,ESP,FW,Alavés,11.0,2000-04-09,1035,2,2,2,0,254.0
+375,5.0,Okay Yokuşlu,TUR,CM,Elche,25.0,1994-03-03,462,0,0,4,1,237.0
+376,6.0,Omenuke Mfulu,COD,CM,Eibar,22.0,1994-03-06,789,0,0,4,0,300.0
+377,29.0,Oriol Rey,ESP,DM,Granada,10.0,1998-02-13,15,0,0,0,0,10.0
+378,11.0,Ousmane Dembélé,FRA,LW,Osasuna,25.0,1997-04-30,1774,6,3,2,0,832.0
+379,23.0,Oussama Idrissi,MAR,LM,Granada,1.0,1996-02-18,27,0,0,0,0,9.0
+380,11.0,Pablo Hervías,ESP,RB,Huesca,4.0,1993-02-22,1204,0,5,1,0,549.0
+381,4.0,Pablo Insua,ESP,CB,Elche,55.0,1993-08-26,1587,0,0,9,0,637.0
+382,3.0,Pablo Maffeo,ESP,RW,Cádiz,17.0,1997-06-26,1891,1,4,4,0,728.0
+383,20.0,Pablo Piatti,ARG,CM,Eibar,13.0,1989-03-18,361,0,0,1,0,92.0
+384,17.0,Paco Alcácer,ESP,FW,Granada,4.0,1993-08-14,1515,6,4,0,0,187.0
+385,8.0,Papakouli Diop,SEN,CM,Real Madrid,15.0,1986-03-07,2324,1,1,9,2,605.0
+386,24.0,Papu Gómez,ARG,LW,Villarreal,11.0,1988-02-03,914,3,1,0,0,506.0
+387,11.0,Patrick Cutrone,ITA,FW,Real Madrid,3.0,1997-12-08,108,0,0,0,0,16.0
+388,4.0,Pau Torres,ESP,CB,Granada,42.0,1996-12-30,2880,2,2,2,0,1745.0
+389,4.0,Paul Akouokou,CIV,DM,Valladolid,1.0,1997-11-24,378,0,0,5,1,170.0
+390,1.0,Paulo Gazzaniga,ARG,GK,Eibar,18.0,1991-12-20,720,0,0,3,0,146.0
+391,4.0,Paulo Oliveira,POR,CB,Real Madrid,10.0,1991-12-26,2641,0,1,4,0,835.0
+392,16.0,Pedri,ESP,CM,Eibar,18.0,2002-11-10,2415,3,3,2,0,1498.0
+393,19.0,Pedro Alcalá,ESP,CB,Valladolid,9.0,1989-03-04,909,0,0,2,0,205.0
+394,3.0,Pedro Bigas,ESP,CB,Real Madrid,10.0,1990-09-02,1529,0,0,1,0,474.0
+395,21.0,Pedro León,ESP,RM,Real Madrid,6.0,1986-11-12,935,1,2,2,0,207.0
+396,19.0,Pedro López Muñoz,ESP,RW,Cádiz,18.0,1983-10-20,1050,0,1,2,0,531.0
+397,5.0,Pedro Mosquera,ESP,CB,Cádiz,8.0,1988-04-07,2050,0,0,1,0,1033.0
+398,28.0,Pepe Sánchez,ESP,CB,Valladolid,7.0,2000-02-15,253,0,0,0,0,43.0
+399,10.0,Pere Milla,ESP,FW,Eibar,19.0,1992-09-09,1981,4,3,6,0,428.0
+400,20.0,Pere Pons,ESP,RM,Getafe,14.0,1993-02-06,1186,2,0,0,0,270.0
+401,15.0,Pervis Estupiñán,ECU,LB,Betis,38.0,1998-01-06,1153,0,0,1,0,506.0
+402,14.0,Philippe Coutinho,BRA,CM,Granada,14.0,1992-06-10,654,2,2,0,0,444.0
+403,7.0,Portu,ESP,RW,Levante,25.0,1992-05-06,2184,8,3,3,0,384.0
+404,17.0,Quini,ESP,LB,Osasuna,35.0,1989-09-11,1191,1,0,5,0,341.0
+405,7.0,Quique,ESP,FW,Real Madrid,3.0,1990-05-03,167,0,0,0,0,35.0
+406,9.0,Rafa Mir,ESP,FW,Cádiz,8.0,1997-06-02,2842,13,1,2,0,249.0
+407,11.0,Rafa Soares,POR,LB,Real Madrid,31.0,1995-04-25,1134,0,1,2,0,487.0
+408,6.0,Ramiro Funes Mori,ARG,RB,Real Madrid,39.0,1991-02-19,644,0,0,1,0,369.0
+409,12.0,Ramon Azeez,NGA,DM,Levante,22.0,1992-12-18,101,0,0,0,0,29.0
+410,4.0,Ramón Folch,ESP,CM,Betis,0.0,1989-10-10,1,0,0,0,0,0.0
+411,5.0,Raphaël Varane,FRA,CB,Barcelona,74.0,1993-04-09,2715,2,0,2,0,1591.0
+412,3.0,Raúl Albiol,ESP,CB,Granada,28.0,1985-08-21,3025,0,0,7,0,1769.0
+413,22.0,Raúl García,ESP,LM,Athletic Club,7.0,1986-06-29,2247,6,1,10,2,547.0
+414,14.0,Raúl Guti,ESP,CM,Eibar,38.0,1996-12-15,2862,3,1,4,1,1078.0
+415,22.0,Raúl Navas,ESP,CB,Real Sociedad,22.0,1988-05-12,168,0,0,0,0,40.0
+416,18.0,Recio,ESP,RM,Barcelona,52.0,1990-12-29,734,1,0,5,0,354.0
+417,12.0,Renan Lodi,BRA,LB,Real Sociedad,5.0,1998-03-24,1129,1,2,3,0,577.0
+418,14.0,Renato Tapia,PER,DM,Athletic Club,14.0,1995-07-15,2701,0,1,11,0,1292.0
+419,12.0,Riqui Puig,ESP,LM,Osasuna,33.0,1999-07-29,292,1,0,1,0,318.0
+420,4.0,Rober,ESP,CB,Athletic Club,72.0,1995-01-31,1425,0,1,3,1,730.0
+421,20.0,Rober Correa,ESP,RB,Real Madrid,24.0,1992-09-06,1136,0,2,3,0,436.0
+422,13.0,Roberto,ESP,GK,Barcelona,9.0,1986-01-29,1170,0,0,0,0,203.0
+423,28.0,Roberto López,ESP,FW,Levante,1.0,2000-04-07,505,3,0,0,0,176.0
+424,9.0,Roberto Soldado,ESP,FW,Valladolid,1.0,1985-05-15,1438,9,0,8,1,206.0
+425,10.0,Roberto Torres,ESP,RW,Celta Vigo,25.0,1989-02-21,1894,7,1,0,0,519.0
+426,24.0,Robin Le Normand,ESP,CB,Levante,68.0,1996-10-26,2747,0,1,5,1,1451.0
+427,28.0,Rodri,ESP,RW,Atlético Madrid,11.0,2000-04-30,537,0,0,0,0,210.0
+428,6.0,Rodrigo Battaglia,ARG,RM,Getafe,2.0,1991-06-29,2492,1,0,10,1,870.0
+429,4.0,Rodrigo Ely,BRA,CB,Villarreal,9.0,1993-11-03,468,1,0,1,0,127.0
+430,25.0,Rodrygo,BRA,WB,Barcelona,11.0,2000-12-22,983,1,6,0,0,333.0
+431,9.0,Roger Martí,ESP,FW,Athletic Club,14.0,1990-12-19,2198,12,4,4,0,357.0
+432,4.0,Ronald Araújo,URU,CB,Osasuna,76.0,1999-02-20,1510,2,1,3,0,985.0
+433,17.0,Roque Mesa,ESP,CM,Huesca,24.0,1989-05-25,1761,1,0,4,1,713.0
+434,13.0,Rubén,ESP,GK,Valladolid,2.0,1984-06-22,187,0,0,0,1,40.0
+435,14.0,Rubén Alcaraz,ESP,CM,Getafe,25.0,1991-04-18,2165,1,0,10,0,930.0
+436,13.0,Rubén Blanco,ESP,GK,Celta Vigo,24.0,1995-07-16,1637,0,0,0,1,472.0
+437,3.0,Rubén Duarte,ESP,LB,Getafe,24.0,1995-10-04,2545,1,1,5,1,938.0
+438,14.0,Rubén García,ESP,LB,Granada,19.0,1993-06-30,2718,3,5,2,0,778.0
+439,20.0,Rubén Peña,ESP,RM,Granada,4.0,1991-07-03,1026,1,1,1,0,410.0
+440,16.0,Rubén Rochina,ESP,CM,Alavés,10.0,1991-03-11,1404,0,1,5,0,613.0
+441,21.0,Rubén Sobrino,ESP,RW,Valladolid,15.0,1992-05-16,1162,1,0,3,0,199.0
+442,1.0,Rubén Yáñez,ESP,GK,Betis,23.0,1993-09-28,900,0,0,2,0,164.0
+443,1.0,Rui Silva,POR,GK,Elche,26.0,1994-01-26,2880,0,0,1,0,596.0
+444,14.0,Rúben Vezo,POR,CB,Elche,47.0,1994-04-12,2316,1,0,7,0,1131.0
+445,35.0,Sabit Abdulai,GHA,CM,Betis,0.0,1999-04-26,60,0,0,1,0,7.0
+446,18.0,Saidy Janko,GAM,RB,Huesca,26.0,1995-10-08,1220,0,1,4,0,436.0
+447,7.0,Salvi,ESP,RM,Sevilla,6.0,1991-03-18,1933,2,0,5,0,323.0
+448,11.0,Samuel Chukwueze,NGA,RW,Betis,14.0,1999-05-07,1365,4,2,0,0,395.0
+449,23.0,Samuel Umtiti,FRA,CB,Osasuna,45.0,1993-10-31,645,0,0,1,0,579.0
+450,6.0,Sandro Ramírez,ESP,FW,Cádiz,14.0,1995-06-24,1285,5,1,2,0,246.0
+451,22.0,Santi Mina,ESP,FW,Elche,15.0,1995-11-23,2412,12,3,4,0,438.0
+452,8.0,Saúl Ñíguez,ESP,LM,Real Sociedad,33.0,1994-11-07,2033,2,1,10,0,976.0
+453,9.0,Sergi Enrich,ESP,FW,Real Madrid,16.0,1990-02-13,1404,3,0,1,0,338.0
+454,27.0,Sergi García,ESP,CM,Alavés,0.0,1999-04-20,16,0,0,0,0,4.0
+455,7.0,Sergi Guardiola,ESP,FW,Huesca,8.0,1991-05-16,1795,1,2,5,0,343.0
+456,3.0,Sergi Gómez,ESP,CB,Levante,93.0,1992-03-16,719,0,0,2,0,508.0
+457,20.0,Sergi Roberto,ESP,RB,Valladolid,30.0,1992-01-26,946,1,2,1,0,795.0
+458,30.0,Sergio Arribas,ESP,LW,Valencia,7.0,2001-09-15,135,0,0,1,0,72.0
+459,1.0,Sergio Asenjo,ESP,GK,Real Madrid,28.0,1989-06-14,3150,0,0,2,0,1005.0
+460,41.0,Sergio Benito,ESP,RW,Alavés,0.0,1999-03-13,2,0,0,0,0,0.0
+461,5.0,Sergio Busquets,ESP,CM,Osasuna,62.0,1988-07-03,2517,0,5,9,0,2453.0
+462,10.0,Sergio Canales,ESP,DM,Valladolid,36.0,1991-02-02,2498,8,6,4,0,1497.0
+463,34.0,Sergio Carreira,ESP,RB,Eibar,31.0,2000-10-16,259,1,0,0,0,89.0
+464,31.0,Sergio Cubero Ezcurra,ESP,AM,Betis,0.0,1999-09-02,1,0,0,0,0,0.0
+465,18.0,Sergio Escudero,ESP,LB,Villarreal,60.0,1989-08-20,565,1,0,3,0,340.0
+466,23.0,Sergio González,ESP,DM,Cádiz,20.0,1997-05-20,90,0,0,0,0,20.0
+467,10.0,Sergio Gómez,ESP,LW,Cádiz,15.0,2000-08-18,758,0,1,1,0,308.0
+468,1.0,Sergio Herrera,ESP,GK,Granada,19.0,1993-05-22,2958,0,0,2,0,613.0
+469,7.0,Sergio León,ESP,FW,Elche,3.0,1988-12-25,748,2,0,0,0,96.0
+470,15.0,Sergio Postigo,ESP,CB,Eibar,20.0,1988-10-23,1623,0,0,4,0,720.0
+471,4.0,Sergio Ramos,ESP,CB,Barcelona,42.0,1986-03-19,1275,2,0,3,0,1019.0
+472,6.0,Sergio Álvarez,ESP,CM,Real Madrid,11.0,1992-01-10,1568,0,0,3,0,531.0
+473,2.0,Sergiño Dest,USA,RB,Osasuna,47.0,2000-10-18,1909,2,1,1,0,1142.0
+474,12.0,Shinji Okazaki,JPN,CB,Celta Vigo,2.0,1986-04-05,1072,1,1,1,0,119.0
+475,9.0,Shon Weissman,ISR,FW,Huesca,19.0,1996-01-31,2133,6,1,3,0,246.0
+476,12.0,Sidnei,BRA,CB,Elche,89.0,1989-08-15,697,0,0,1,0,472.0
+477,21.0,Sofian Chakla,MAR,CB,Levante,5.0,1993-08-19,910,0,0,5,0,151.0
+478,2.0,Son,ESP,RB,Athletic Club,51.0,1994-03-14,1106,0,0,3,0,480.0
+479,15.0,Stefan Savić,MNE,CB,Sevilla,73.0,1990-12-26,2953,1,0,14,0,1487.0
+480,7.0,Suso,ESP,RW,Villarreal,29.0,1993-11-05,2210,3,4,2,0,977.0
+481,2.0,Tachi,ESP,CB,Getafe,15.0,1997-08-26,850,0,0,4,1,269.0
+482,14.0,Takashi Inui,JPN,LM,Real Madrid,26.0,1988-05-20,1819,1,0,0,0,353.0
+483,5.0,Takefusa Kubo,JPN,FW,Betis,14.0,2001-05-19,1104,1,1,4,1,247.0
+484,11.0,Tete Morente,ESP,RM,Real Madrid,10.0,1996-11-19,2019,2,5,5,0,539.0
+485,1.0,Thibaut Courtois,BEL,GK,Barcelona,30.0,1992-04-25,3420,0,0,0,0,1087.0
+486,2.0,Thierry Correia,POR,RB,Villarreal,24.0,1999-02-22,2137,1,1,6,1,892.0
+487,11.0,Thomas Lemar,FRA,AM,Huesca,3.0,1995-10-30,1366,1,3,4,0,643.0
+488,5.0,Thomas Partey,GHA,CM,Athletic Club,82.0,1993-06-18,200,0,0,1,0,197.0
+489,8.0,Tomás Pina Isla,ESP,CM,Getafe,29.0,1987-10-02,2575,1,1,12,0,752.0
+490,37.0,Tomás Tavares,POR,RB,Barcelona,8.0,2001-03-03,65,0,0,0,0,17.0
+491,1.0,Tomáš Vaclík,CZE,GK,Villarreal,25.0,1989-03-16,450,0,0,0,0,121.0
+492,8.0,Toni Kroos,GER,LM,Osasuna,104.0,1989-12-25,2117,3,10,6,0,1934.0
+493,3.0,Toni Lato,ESP,LB,Real Madrid,29.0,1997-11-06,728,1,0,3,0,276.0
+494,19.0,Toni Villa,ESP,LM,Huesca,13.0,1994-12-24,969,2,0,2,0,272.0
+495,3.0,Toño,ESP,LB,Athletic Club,45.0,1989-10-23,726,0,2,2,0,324.0
+496,32.0,Unai Arietaleanizbeaskoa,ESP,DM,Real Sociedad,1.0,1999-01-02,47,0,0,1,0,4.0
+497,29.0,Unai Dufur,ESP,RB,Huesca,36.0,1998-12-24,62,0,0,0,0,36.0
+498,4.0,Unai García,ESP,CB,Celta Vigo,12.0,1992-01-20,1242,0,0,3,0,329.0
+499,8.0,Unai López,ESP,CM,Alavés,50.0,1995-10-16,1424,3,0,7,0,850.0
+500,3.0,Unai Núñez,ESP,CB,Alavés,48.0,1997-01-15,2109,1,1,6,0,988.0
+501,1.0,Unai Simón,ESP,GK,Athletic Club,21.0,1997-05-27,3330,0,0,1,0,743.0
+502,27.0,Unai Vencedor Paris,ESP,CM,Alavés,31.0,2000-10-30,1701,0,0,6,0,729.0
+503,37.0,Urko González,ESP,CM,Valladolid,27.0,2001-02-24,47,0,0,1,0,28.0
+504,19.0,Uroš Račić,SRB,CM,Villarreal,8.0,1998-03-02,2187,1,1,6,0,835.0
+505,26.0,Vicente Esquerdo,ESP,CM,Osasuna,25.0,1999-01-07,231,0,0,1,0,81.0
+506,10.0,Vicente Iborra,ESP,CM,Huesca,20.0,1988-01-17,928,0,0,4,0,539.0
+507,26.0,Victor Mollejo,ESP,CB,Levante,1.0,2001-01-18,72,0,0,0,0,24.0
+508,20.0,Vinicius Júnior,BRA,LW,Barcelona,14.0,2000-06-24,1969,3,3,3,0,657.0
+509,20.0,Vitolo,ESP,WB,Atlético Madrid,3.0,1989-10-09,298,0,0,1,0,129.0
+510,32.0,Víctor Chust,ESP,CB,Eibar,64.0,2000-02-10,95,0,0,0,0,68.0
+511,16.0,Víctor Díaz,ESP,CB,Valladolid,12.0,1988-05-30,828,0,2,3,0,258.0
+512,5.0,Víctor Laguardia,ESP,CB,Celta Vigo,42.0,1989-10-23,2631,0,1,5,1,823.0
+513,8.0,Víctor Rodríguez,ESP,CM,Alavés,46.0,1989-07-11,426,0,0,1,0,297.0
+514,6.0,Víctor Ruiz,ESP,CB,Atlético Madrid,23.0,1989-01-12,2157,2,0,9,0,1121.0
+515,23.0,Waldo Rubio,ESP,LM,Real Madrid,6.0,1995-08-03,375,1,0,1,0,78.0
+516,14.0,William Carvalho,POR,DM,Atlético Madrid,4.0,1992-03-24,1223,2,0,6,1,812.0
+517,9.0,Willian José,BRA,FW,Barcelona,11.0,1991-11-26,689,3,1,0,0,178.0
+518,4.0,Xabier Etxeita,ESP,CB,Eibar,1.0,1987-10-12,883,0,0,3,0,198.0
+519,23.0,Ximo Navarro,ESP,RB,Getafe,23.0,1990-01-10,2375,1,1,6,0,802.0
+520,8.0,Yan Brice Eteki,CMR,CM,Valladolid,11.0,1997-08-11,1321,0,0,4,1,274.0
+521,21.0,Yangel Herrera,VEN,DM,Sevilla,11.0,1998-01-01,2310,3,1,7,0,588.0
+522,12.0,Yann Bodiger,FRA,CM,Eibar,0.0,1995-01-30,251,0,0,0,0,65.0
+523,21.0,Yannick Carrasco,BEL,LW,Real Sociedad,20.0,1993-08-21,2179,6,10,6,0,743.0
+524,13.0,Yassine Bounou,MAR,GK,Betis,29.0,1991-03-22,2970,1,0,3,0,862.0
+525,5.0,Yeray Álvarez,ESP,CB,Alavés,59.0,1995-01-10,1948,1,0,6,0,907.0
+526,30.0,Yeremi Pino,ESP,RM,Granada,27.0,2002-10-02,768,3,1,4,0,226.0
+527,13.0,Yoel,ESP,GK,Real Madrid,16.0,1988-08-15,300,0,0,0,0,75.0
+528,12.0,Yoshinori Mutō,JPN,FW,Barcelona,7.0,1992-07-01,1122,1,1,1,0,151.0
+529,15.0,Youssef En-Nesyri,MAR,FW,Villarreal,5.0,1997-05-17,2311,18,0,2,0,260.0
+530,18.0,Youssouf Koné,MLI,AM,Athletic Club,5.0,1995-07-07,73,0,0,0,0,24.0
+531,30.0,Yunus Musah,USA,RM,Real Madrid,8.0,2002-11-13,1530,1,0,2,0,314.0
+532,17.0,Yuri Berchiche,ESP,LB,Alavés,27.0,1990-01-19,1682,1,3,3,0,909.0
+533,12.0,Álex Berenguer,ESP,RM,Alavés,28.0,1995-06-20,2278,8,4,4,0,601.0
+534,29.0,Álex Cantero,ESP,FW,Athletic Club,3.0,2000-05-21,237,0,0,1,0,25.0
+535,8.0,Álex Fernández,ESP,LM,Atlético Madrid,51.0,1992-10-01,1946,4,1,1,0,692.0
+536,37.0,Álex Martín,ESP,RB,Valencia,29.0,1998-01-09,96,0,0,0,0,31.0
+537,40.0,Álex Millán,ESP,FW,Alavés,0.0,1999-11-06,2,0,0,0,0,0.0
+538,15.0,Álex Moreno,ESP,LB,Atlético Madrid,8.0,1993-05-25,1786,0,2,4,0,897.0
+539,1.0,Álex Remiro,ESP,GK,Levante,19.0,1995-03-09,3420,0,0,0,0,872.0
+540,38.0,Álvaro Bastida,ESP,CM,Valladolid,4.0,2004-04-23,35,0,0,0,0,4.0
+541,37.0,Álvaro Bravo,ESP,AM,Valladolid,8.0,1998-02-03,15,0,0,0,0,8.0
+542,1.0,Álvaro Fernández,ESP,GK,Cádiz,36.0,1998-03-28,1890,0,0,0,0,587.0
+543,21.0,Álvaro Giménez,ESP,FW,Eibar,0.0,1991-05-11,407,2,1,0,0,52.0
+544,18.0,Álvaro Negredo,ESP,FW,Valladolid,11.0,1985-08-06,2198,8,4,5,1,322.0
+545,19.0,Álvaro Odriozola,ESP,RB,Barcelona,36.0,1995-11-28,829,2,0,0,0,398.0
+546,22.0,Álvaro Tejero,ESP,RB,Getafe,61.0,1996-07-25,110,0,0,1,0,76.0
+547,41.0,Ángel,ESP,GK,Valladolid,14.0,2002-06-21,90,0,0,0,0,14.0
+548,10.0,Ángel Correa,ARG,RW,Real Sociedad,14.0,1995-02-23,2393,9,8,3,0,690.0
+549,19.0,Ángel Montoro,ESP,AM,Sevilla,6.0,1988-06-14,1362,1,1,6,0,515.0
+550,9.0,Ángel Rodríguez,ESP,FW,Celta Vigo,13.0,1987-04-15,1374,5,0,4,0,198.0
+551,3.0,Éder Militão,BRA,CB,Barcelona,68.0,1998-01-01,1133,1,0,3,1,714.0
+552,13.0,Édgar Badía,ESP,GK,Huesca,22.0,1992-01-23,2700,0,0,0,0,865.0
+553,16.0,Édgar Méndez,ESP,LW,Getafe,12.0,1989-12-20,2090,5,1,12,1,259.0
+554,25.0,Étienne Capoue,FRA,CM,Granada,28.0,1988-06-26,1110,1,0,4,1,619.0
+555,21.0,Óliver Torres,ESP,RM,Villarreal,29.0,1994-10-27,1400,0,3,2,0,860.0
+556,6.0,Óscar Duarte,CRC,CB,Athletic Club,75.0,1989-05-19,2060,1,0,2,0,1028.0
+557,28.0,Óscar Mingueza,ESP,CB,Osasuna,51.0,1999-04-28,1901,2,2,4,0,1545.0
+558,10.0,Óscar Plano,ESP,RM,Huesca,26.0,1991-01-29,2517,5,5,1,1,606.0
+559,14.0,Óscar Rodríguez Arnaiz,ESP,LM,Villarreal,16.0,1998-06-13,511,0,0,1,0,256.0
+560,18.0,Óscar de Marcos,ESP,RB,Alavés,11.0,1989-04-01,1520,1,2,2,0,571.0
+561,24.0,Šime Vrsaljko,CRO,RB,Athletic Club,6.0,1991-12-21,519,0,0,2,0,212.0
