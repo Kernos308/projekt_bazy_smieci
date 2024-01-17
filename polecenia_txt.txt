@@ -1,0 +1,47 @@
+CREATE TABLE archiwum_druzyna (
+    druzyna_id SERIAL PRIMARY KEY,
+    nazwa_druzyny VARCHAR(100),
+    trener VARCHAR(50),
+    rok_zalozenia DATE,
+    data_usuniecia TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+CREATE TABLE archiwum_mecz (
+    mecz_id SERIAL PRIMARY KEY,
+    data_meczu DATE,
+    druzyna_gospodarz_id INT,
+    druzyna_gosc_id INT,
+    wynik_gospodarz INT,
+    wynik_gosc INT,
+    data_usuniecia TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+	FOREIGN KEY (druzyna_gospodarz_id) REFERENCES druzyna(druzyna_id),
+    FOREIGN KEY (druzyna_gosc_id) REFERENCES druzyna(druzyna_id)
+);
+
+DELIMITER //
+CREATE TRIGGER usuniecie_danych_druzyna_trigger
+BEFORE DELETE ON druzyna
+FOR EACH ROW
+BEGIN
+    -- Przeniesienie rekordu do archiwum
+    INSERT INTO archiwum_druzyna (druzyna_id, nazwa_druzyny, trener, rok_zalozenia, stadion)
+    VALUES (OLD.druzyna_id, OLD.nazwa_druzyny, OLD.trener, OLD.rok_zalozenia, OLD.stadion);
+END;
+//
+DELIMITER ;
+
+
+DELIMITER //
+CREATE TRIGGER logowanie_insert_zawodnik
+AFTER INSERT ON zawodnik
+FOR EACH ROW
+BEGIN
+    INSERT INTO logi (user, polecenie)
+    VALUES (USER(), CONCAT('INSERT INTO zawodnik (`zawodnik_id`, `imie_nazwisko`, `data_urodzenia`, `reprezentacja`, `pozycja`, `druzyna_id`)
+ 	VALUES (', QUOTE(NEW.zawodnik_id), ', ', QUOTE(NEW.imie_nazwisko), ', ', QUOTE(NEW.data_urodzenia), ', ', QUOTE(NEW.reprezentacja),
+	', ', QUOTE(NEW.pozycja), ', ', QUOTE(NEW.druzyna_id),
+	', ...)', ')'));
+END;
+//
+DELIMITER ;
