@@ -67,18 +67,12 @@ CREATE TABLE archiwum_statystyki (
     FOREIGN KEY (druzyna_id) REFERENCES druzyna(druzyna_id)
 );
 
-
-
 DELIMITER //
-CREATE TRIGGER usuniecie_danych_statystyki_trigger
-BEFORE DELETE ON statystyki
-FOR EACH ROW
-BEGIN
-    -- Przeniesienie rekordu do archiwum
-    INSERT INTO archiwum_statystyki (`statystyki_id`, `mecz_id`, `druzyna_id`, `posiadanie_pilki`, `podania`, `strzaly_celne`, `strzaly_niecelne`, `rzuty_rozne`,
-	`rzuty_karne`, `faule`, `spalone`)
-    VALUES (OLD.statystyki_id, OLD.mecz_id, OLD.druzyna_id, OLD.posiadanie_pilki, OLD.podania, OLD.strzaly_celne, OLD.strzaly_niecelne, OLD.rzuty_rozne,
-    OLD.rzuty_karne, OLD.faule, OLD.spalone);
+CREATE TRIGGER `usuniecie_danych_statystyki_trigger` 
+BEFORE DELETE ON `statystyki` 
+FOR EACH ROW BEGIN
+-- Przeniesienie rekordu do archiwum
+INSERT INTO archiwum_statystyki (`statystyki_id`, `mecz_id`, `druzyna_id`, `xg`, `podania`, `strzaly_celne`, `strzaly_niecelne`, `rzuty_karne`, `zolte_kartki`, `czerwone_kartki`) VALUES (OLD.statystyki_id, OLD.mecz_id, OLD.druzyna_id, OLD.xg, OLD.podania, OLD.strzaly_celne, OLD.strzaly_niecelne, OLD.rzuty_karne, OLD.zolte_kartki, OLD.czerwone_kartki);
 END;
 //
 DELIMITER ;
