@@ -170,9 +170,9 @@ FOR EACH ROW
 BEGIN
     INSERT INTO logi (user, polecenie)
     VALUES (USER(), CONCAT('INSERT INTO statystyki
- 	VALUES (', QUOTE(NEW.`statystyki_id`), ', ', QUOTE(NEW.`mecz_id`), ', ', QUOTE(NEW.`druzyna_id`), ', ', QUOTE(NEW.`posiadanie_pilki`),
-	', ', QUOTE(NEW.`podania`), ', ', QUOTE(NEW.strzaly_celne), ', ', QUOTE(NEW.`strzaly_niecelne`), ', ', QUOTE(NEW.`rzuty_rozne`),
-	', ', QUOTE(NEW.`rzuty_karne`), ', ', QUOTE(NEW.`faule`), ', ', QUOTE(NEW.`spalone`),
+ 	VALUES (', QUOTE(NEW.`statystyki_id`), ', ', QUOTE(NEW.`mecz_id`), ', ', QUOTE(NEW.`druzyna_id`), ', ', QUOTE(NEW.xg),
+	', ', QUOTE(NEW.`podania`), ', ', QUOTE(NEW.strzaly_celne), ', ', QUOTE(NEW.`strzaly_niecelne`), ', ', QUOTE(NEW.`rzuty_karne`),
+	', ', QUOTE(NEW.`zolte_kartki`), ', ', QUOTE(NEW.`czerwone_kartki`),
 	', ...)', ')'));
 END;
 //
